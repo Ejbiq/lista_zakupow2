@@ -1,4 +1,4 @@
-produkty = ["chleb", "mleko", "masło", "mąka", "pasztet", "papryka"]
+produkty = ["chleb", "mleko", "masło", "mąka", "pasztet", "papryka", "słonecznik"]
 for produkt in produkty:
     print(f"- {produkt}")
     
